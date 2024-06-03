@@ -79,11 +79,7 @@ justify-content: space-between;
  margin-bottom: 15px;
 border-bottom: 2px solid #fff;
 }
-li .checkbox{
-  padding-top: 7px;
-  padding: 10px;
-padding-left: 220px;
-}
+
 .x{
   transform: rotate(90deg);
   font-size: 29px;

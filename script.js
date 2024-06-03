@@ -20,11 +20,10 @@ if(input_js.value === ''){
  
 
   let span = document.createElement("span");
-  let inputCheeck =  document.createElement("span");
-  li.appendChild(inputCheeck)
+
+ 
   li.appendChild(span);
-  inputCheeck.innerHTML = `<input type="checkbox">`
-  inputCheeck.classList.add("checkbox")
+
 
   input_js.value = "";
   span.innerHTML = `<i class="fa-solid fa-xmark"></i>`;
